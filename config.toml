@@ -1,4 +1,4 @@
-baseURL = "https://pix.ctmartin.me/"
+baseURL = "https://photogallery-ct.vercel.app"
 copyright = "© 2020 Christian Martin"
 disableHugoGeneratorInject = true
 languageCode = "en-us"
